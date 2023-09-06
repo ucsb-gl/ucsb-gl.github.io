@@ -1,0 +1,212 @@
+---
+title: "Participants"
+---
+
+<!-- <style> -->
+<!-- body { -->
+<!--   background-color:         #b5e8f5; -->
+<!--   background-repeat:        no-repeat; -->
+<!--   background-attachment:    fixed; -->
+<!--   background-size:          cover; -->
+<!--   background-position:      center top; -->
+<!-- } -->
+<!-- </style> -->
+
+## Program Leadership
+
+<!-- Dr. Ravat  -->
+::: {.callout-note appearance="default" collapse="false"}
+## Program Director: Dr. Uma Ravat
+
+<table>
+<tr>
+	<td>
+    <img src="../Images/Profiles/placeholder2.png" alt="Placeholder Profile" width = "150">
+  </td>
+
+  <td>
+    <p style = "font-size: 28px; margin-bottom: -10px; margin-left: 15px"><b>Dr. Uma Ravat</b></p>
+    <p style = "font-size: 20px; margin-left: 15px"><a href="mailto:umaravat@ucsb.edu">umaravat@ucsb.edu</a></p>
+  </td>
+</tr>
+</table>
+
+:::
+
+
+<!-- Dr. Ohara  -->
+::: {.callout-note appearance="default" collapse="false"}
+## Program Director: Dr. Kyoko Ohara (小原　京子)
+
+<table>
+<tr>
+	<td>
+    <img src="../Images/Profiles/placeholder2.png" alt="Placeholder Profile" width = "150">
+  </td>
+
+  <td>
+    <p style = "font-size: 28px; margin-bottom: -10px; margin-left: 15px"><b>Dr. Kyoko Ohara (小原　京子)</b></p>
+    <p style = "font-size: 20px; margin-left: 15px"><a href="mailto:ohara@keio.jp">ohara@keio.jp</a></p>
+  </td>
+</tr>
+</table>
+
+:::
+
+<!-- Ethan  -->
+::: {.callout-note appearance="default" collapse="false"}
+## Program Assistant: Ethan Marzban
+
+<table>
+<tr>
+	<td>
+    <img src="../Images/Profiles/placeholder2.png" alt="Placeholder Profile" width = "150">
+  </td>
+
+  <td>
+    <p style = "font-size: 28px; margin-bottom: -10px; margin-left: 15px"><b>Ethan Marzban</b></p>
+    <p style = "font-size: 20px; margin-left: 15px"><a href="mailto:epmarzban@pstat.ucsb.edu">epmarzban@pstat.ucsb.edu</a></p>
+  </td>
+</tr>
+</table>
+
+:::
+
+## Keio University Faculty
+
+<!-- Dr. Takemura  -->
+::: {.callout-note appearance="default" collapse="false"}
+## Dr. Kenjiro Takemura (竹村　研治郎)
+
+<table>
+<tr>
+	<td>
+    <img src="../Images/Profiles/placeholder2.png" alt="Placeholder Profile" width = "150">
+  </td>
+
+  <td>
+    <p style = "font-size: 28px; margin-bottom: -10px; margin-left: 15px"><b>Dr. Kenjiro Takemura (竹村　研治郎)</b></p>
+    <p style = "font-size: 20px; margin-left: 15px"><a href="mailto:kenjiro.takemura@keio.jp">kenjiro.takemura@keio.jp</a></p>
+  </td>
+</tr>
+</table>
+
+:::
+
+<!-- Dr. Bannai  -->
+::: {.callout-note appearance="default" collapse="false"}
+## Dr. Kenichi Bannai (坂内　健一)
+
+<table>
+<tr>
+	<td>
+    <img src="../Images/Profiles/placeholder2.png" alt="Placeholder Profile" width = "150">
+  </td>
+
+  <td>
+    <p style = "font-size: 28px; margin-bottom: -10px; margin-left: 15px"><b>Dr. Kenichi Bannai (坂内　健一)</b></p>
+    <p style = "font-size: 20px; margin-left: 15px"><a href="mailto:bannai@math.keio.ac.jp">bannai@math.keio.ac.jp</a></p>
+  </td>
+</tr>
+</table>
+
+:::
+
+
+## Student Groups
+
+<!-- Group 1 -->
+::: {.callout-note appearance="default" collapse="false"}
+## Group 1
+::::{.columns}
+
+:::{.column width="50%"}
+- Alex Morifusa [UCSB]
+- Shirley Wang [UCSB]
+:::
+
+:::{.column width="50%"}
+- Gen Asambo (阿讃坊　元) [Keio]
+- Kotone Adachi (安立　琴音) [Keio] 
+:::
+
+::::
+:::
+
+
+<!-- Group 2 -->
+::: {.callout-note appearance="default" collapse="false"}
+## Group 2
+::::{.columns}
+
+:::{.column width="50%"}
+- Sarah Bubier [UCSB]
+:::
+
+:::{.column width="50%"}
+- Naoki Tamura (田村　直樹) [Keio]
+- Yuki Ihara (井原　由貴) [Keio] 
+:::
+
+::::
+:::
+
+
+
+<!-- Group 3 -->
+::: {.callout-note appearance="default" collapse="false"}
+## Group 3
+::::{.columns}
+
+:::{.column width="50%"}
+- Fabio Ricci [UCSB]
+- Katelyn Vo [UCSB]
+:::
+
+:::{.column width="50%"}
+- Yuto Masuda (増田　悠人) [Keio]
+- Taiyo Yoshida (吉田　大洋) [Keio] 
+:::
+
+::::
+:::
+
+
+
+<!-- Group 4 -->
+::: {.callout-note appearance="default" collapse="false"}
+## Group 4
+::::{.columns}
+
+:::{.column width="50%"}
+- Isabella Tu [UCSB]
+- Michael Keith [UCSB]
+:::
+
+:::{.column width="50%"}
+- Kosuke Chino (千野　浩輔) [Keio]
+- Azusa Kameda (亀田　あずさ) [Keio] 
+:::
+
+::::
+:::
+
+
+
+<!-- Group 5 -->
+::: {.callout-note appearance="default" collapse="false"}
+## Group 5
+::::{.columns}
+
+:::{.column width="50%"}
+- Erika McPhillips [UCSB]
+- Rio Stinson [UCSB]
+:::
+
+:::{.column width="50%"}
+- Haruka Takahira (高比良　悠) [Keio]
+- Rinka Koike (小池　凜花) [Keio] 
+:::
+
+::::
+:::

@@ -1,0 +1,23 @@
+---
+title: "Program Information"
+---
+
+## Location and Dates
+
+The majority of program events will take place in ELLSN 2626 on the UCSB campus.
+
+```{r, echo = F}
+#| column: screen-inset-shaded
+
+library(leaflet)
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=-119.84530065591146, lat=34.41582882759306, popup="Ellison Hall (UCSB)")
+```
+
+The program will begin with an introductory dinner on Monday, September 25, 2023 at the UCSB Club and Guest House, followed by two full days on September 26 and 27, 2023. A full schedule will be provided to participants during Registration and Check-In.
+
+
+## Program Goals
+
+This page will be updated soon to include overarching program goals.

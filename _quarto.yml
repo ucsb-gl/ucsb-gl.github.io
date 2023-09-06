@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "UCSB - Keio Exchange Program"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: Pages/participants.qmd
+        text: Participants
+      - href: Pages/info.qmd
+        text: Program Info
+      - href: Pages/projects.qmd
+        text: Final Projects
+    pinned: true
+  favicon: Images/Logos_Icons/favicon_2.png
+
+format:
+  html:
+    theme: lumen
+    css: styles.css
+    toc: true
