@@ -8,7 +8,6 @@ The majority of program events will take place in ELLSN 2626 on the UCSB campus.
 
 ```{r, echo = F}
 #| column: screen-inset-shaded
-
 library(leaflet)
 leaflet() %>%
   addTiles() %>%  # Add default OpenStreetMap map tiles
@@ -18,6 +17,6 @@ leaflet() %>%
 The program will begin with an introductory dinner on Monday, September 25, 2023 at the UCSB Club and Guest House, followed by two full days on September 26 and 27, 2023. A full schedule will be provided to participants during Registration and Check-In.
 
 
-## Program Goals
+## Program Goals and Topics
 
-This page will be updated soon to include overarching program goals.
+The main theme for the 2023 iteration of the program was "Arts, Science, and Technology in Global Leadership." Students were placed into groups, and asked to research and present on a topic relating to the themes of Arts, Science, and Technology in Global Leadership. The five topics selected by groups in the 2023 iteration of the program were: Mental Health, Law for Outer Space, Robot Rights, Bullying, and Global Data & (Global) AI.

@@ -14,104 +14,19 @@ title: "Participants"
 
 ## Program Leadership
 
-<!-- Dr. Ravat  -->
-::: {.callout-note appearance="default" collapse="false"}
-## Program Director: Dr. Uma Ravat
+### Program Directors:
 
-<table>
-<tr>
-	<td>
-    <img src="../Images/Profiles/placeholder2.png" alt="Placeholder Profile" width = "150">
-  </td>
+-   Dr. Uma Ravat [UCSB] <a href="mailto:umaravat@ucsb.edu">umaravat@ucsb.edu</a>
+-   Dr. Kyoko Ohara (小原　京子) [Keio University] <a href="mailto:ohara@keio.jp">ohara@keio.jp</a>
 
-  <td>
-    <p style = "font-size: 28px; margin-bottom: -10px; margin-left: 15px"><b>Dr. Uma Ravat</b></p>
-    <p style = "font-size: 20px; margin-left: 15px"><a href="mailto:umaravat@ucsb.edu">umaravat@ucsb.edu</a></p>
-  </td>
-</tr>
-</table>
+### Program Assistant:
 
-:::
+-   Ethan Marzban [UCSB]
 
+### Keio University Faculty
 
-<!-- Dr. Ohara  -->
-::: {.callout-note appearance="default" collapse="false"}
-## Program Director: Dr. Kyoko Ohara (小原　京子)
-
-<table>
-<tr>
-	<td>
-    <img src="../Images/Profiles/placeholder2.png" alt="Placeholder Profile" width = "150">
-  </td>
-
-  <td>
-    <p style = "font-size: 28px; margin-bottom: -10px; margin-left: 15px"><b>Dr. Kyoko Ohara (小原　京子)</b></p>
-    <p style = "font-size: 20px; margin-left: 15px"><a href="mailto:ohara@keio.jp">ohara@keio.jp</a></p>
-  </td>
-</tr>
-</table>
-
-:::
-
-<!-- Ethan  -->
-::: {.callout-note appearance="default" collapse="false"}
-## Program Assistant: Ethan Marzban
-
-<table>
-<tr>
-	<td>
-    <img src="../Images/Profiles/placeholder2.png" alt="Placeholder Profile" width = "150">
-  </td>
-
-  <td>
-    <p style = "font-size: 28px; margin-bottom: -10px; margin-left: 15px"><b>Ethan Marzban</b></p>
-    <p style = "font-size: 20px; margin-left: 15px"><a href="mailto:epmarzban@pstat.ucsb.edu">epmarzban@pstat.ucsb.edu</a></p>
-  </td>
-</tr>
-</table>
-
-:::
-
-## Keio University Faculty
-
-<!-- Dr. Takemura  -->
-::: {.callout-note appearance="default" collapse="false"}
-## Dr. Kenjiro Takemura (竹村　研治郎)
-
-<table>
-<tr>
-	<td>
-    <img src="../Images/Profiles/placeholder2.png" alt="Placeholder Profile" width = "150">
-  </td>
-
-  <td>
-    <p style = "font-size: 28px; margin-bottom: -10px; margin-left: 15px"><b>Dr. Kenjiro Takemura (竹村　研治郎)</b></p>
-    <p style = "font-size: 20px; margin-left: 15px"><a href="mailto:kenjiro.takemura@keio.jp">kenjiro.takemura@keio.jp</a></p>
-  </td>
-</tr>
-</table>
-
-:::
-
-<!-- Dr. Bannai  -->
-::: {.callout-note appearance="default" collapse="false"}
-## Dr. Kenichi Bannai (坂内　健一)
-
-<table>
-<tr>
-	<td>
-    <img src="../Images/Profiles/placeholder2.png" alt="Placeholder Profile" width = "150">
-  </td>
-
-  <td>
-    <p style = "font-size: 28px; margin-bottom: -10px; margin-left: 15px"><b>Dr. Kenichi Bannai (坂内　健一)</b></p>
-    <p style = "font-size: 20px; margin-left: 15px"><a href="mailto:bannai@math.keio.ac.jp">bannai@math.keio.ac.jp</a></p>
-  </td>
-</tr>
-</table>
-
-:::
-
+-   Dr. Kenjiro Takemura (竹村　研治郎)
+-   Dr. Kenichi Bannai (坂内　健一)
 
 ## Student Groups
 
