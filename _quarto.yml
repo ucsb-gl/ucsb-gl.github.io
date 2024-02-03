@@ -1,6 +1,5 @@
 project:
   type: website
-  output-dir: docs
 
 website:
   title: "UCSB - Keio Exchange Program"
@@ -8,14 +7,23 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: Pages/participants.qmd
-        text: Participants
-      - href: Pages/info.qmd
-        text: Program Info
-      - href: Pages/projects.qmd
-        text: Final Projects
-    pinned: true
-  favicon: Images/Logos_Icons/favicon_2.png
+      - sidebar:participants
+      - sidebar:info
+      - href: https://google.com
+        text: Apply Now!
+        
+  sidebar:
+      - id: participants
+        title: "Participants"
+        style: "docked"
+        contents:
+          - Pages/2023/participants.qmd
+      
+      - id: info
+        title: "Program Info"
+        style: "docked"
+        contents:
+          - Pages/2023/info.qmd
 
 format:
   html:

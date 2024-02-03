@@ -1,3 +1,7 @@
+---
+title: ""
+sidebar: false
+---
 
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -49,7 +53,16 @@ mark {
 <div id = "animate2" style="opacity:0">
 <div id="container">
 <div class="subtitletext">
-  <mark>Welcome to the official website for the Arts, Science and Technology in Global Leadership Summer 2023 Exchange Program between UC Santa Barbara and Keio University.</mark>
+  <mark>Welcome to the official website for the Arts, Science and Technology in Global Leadership Exchange Program between UC Santa Barbara and Keio University.</mark>
+</div>
+</div>
+</div>
+
+
+<div id = "animate3" style="opacity:0">
+<div id="container">
+<div class="subtitletext">
+  <mark>We are currently in the process of finalizing the 2024 iteration of the program; please check back soon for updates! In the meantime, feel free to peruse material from the 2023 iteration, held during the Summer of 2023. </mark>
 </div>
 </div>
 </div>
@@ -88,5 +101,20 @@ function fadeIn_delay() {
   }
 }
 setTimeout(function() {fadeIn_delay(); }, 500)
+
+function fadeIn_delay2() {
+  var elem = document.getElementById("animate3");
+  var op = 0;
+  var id = setInterval(frame, 10);
+  function frame() {
+    if (op >= 1) {
+      clearInterval(id);
+    } else {
+      op = op + 0.01;
+      elem.style.opacity = op;
+    }
+  }
+}
+setTimeout(function() {fadeIn_delay2(); }, 1000)
 
 </script>

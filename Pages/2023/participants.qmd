@@ -1,0 +1,127 @@
+---
+title: "2023 Participants"
+---
+
+<!-- <style> -->
+<!-- body { -->
+<!--   background-color:         #b5e8f5; -->
+<!--   background-repeat:        no-repeat; -->
+<!--   background-attachment:    fixed; -->
+<!--   background-size:          cover; -->
+<!--   background-position:      center top; -->
+<!-- } -->
+<!-- </style> -->
+
+## Program Leadership
+
+### Program Directors:
+
+-   Dr. Uma Ravat [UCSB] <a href="mailto:umaravat@ucsb.edu">umaravat@ucsb.edu</a>
+-   Dr. Kyoko Ohara (小原　京子) [Keio University] <a href="mailto:ohara@keio.jp">ohara@keio.jp</a>
+
+### Program Assistant:
+
+-   Ethan Marzban [UCSB]
+
+### Keio University Faculty
+
+-   Dr. Kenjiro Takemura (竹村　研治郎)
+-   Dr. Kenichi Bannai (坂内　健一)
+
+## Student Groups
+
+<!-- Group 1 -->
+::: {.callout-note appearance="default" collapse="false"}
+## Group 1
+::::{.columns}
+
+:::{.column width="50%"}
+- Alex Morifusa [UCSB]
+- Shirley Wang [UCSB]
+:::
+
+:::{.column width="50%"}
+- Gen Asambo (阿讃坊　元) [Keio]
+- Kotone Adachi (安立　琴音) [Keio] 
+:::
+
+::::
+:::
+
+
+<!-- Group 2 -->
+::: {.callout-note appearance="default" collapse="false"}
+## Group 2
+::::{.columns}
+
+:::{.column width="50%"}
+- Sarah Bubier [UCSB]
+:::
+
+:::{.column width="50%"}
+- Naoki Tamura (田村　直樹) [Keio]
+- Yuki Ihara (井原　由貴) [Keio] 
+:::
+
+::::
+:::
+
+
+
+<!-- Group 3 -->
+::: {.callout-note appearance="default" collapse="false"}
+## Group 3
+::::{.columns}
+
+:::{.column width="50%"}
+- Fabio Ricci [UCSB]
+- Katelyn Vo [UCSB]
+:::
+
+:::{.column width="50%"}
+- Yuto Masuda (増田　悠人) [Keio]
+- Taiyo Yoshida (吉田　大洋) [Keio] 
+:::
+
+::::
+:::
+
+
+
+<!-- Group 4 -->
+::: {.callout-note appearance="default" collapse="false"}
+## Group 4
+::::{.columns}
+
+:::{.column width="50%"}
+- Isabella Tu [UCSB]
+- Michael Keith [UCSB]
+:::
+
+:::{.column width="50%"}
+- Kosuke Chino (千野　浩輔) [Keio]
+- Azusa Kameda (亀田　あずさ) [Keio] 
+:::
+
+::::
+:::
+
+
+
+<!-- Group 5 -->
+::: {.callout-note appearance="default" collapse="false"}
+## Group 5
+::::{.columns}
+
+:::{.column width="50%"}
+- Erika McPhillips [UCSB]
+- Rio Stinson [UCSB]
+:::
+
+:::{.column width="50%"}
+- Haruka Takahira (高比良　悠) [Keio]
+- Rinka Koike (小池　凜花) [Keio] 
+:::
+
+::::
+:::

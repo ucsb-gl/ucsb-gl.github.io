@@ -1,1 +1,9 @@
 /* css styles */
+
+.navbar-nav .nav-item > .nav-link[href*="https://google.com"] {
+    color: white;
+    border-radius: .5rem;
+    padding: 0.5rem;
+    background-color: #32a852;
+    font-weight: bold;
+}
