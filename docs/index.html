@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>UCSB - Keio Exchange Program</title>
+<title>UCSB - Keio Exchange Program -</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -24,12 +24,12 @@ ul.task-list li input[type="checkbox"] {
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-search/autocomplete.umd.js"></script>
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./Images/Logos_Icons/favicon_2.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -85,17 +85,31 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link active" href="./index.html" rel="" target="" aria-current="page">
  <span class="menu-text">Home</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./Pages/participants.html" rel="" target="">
- <span class="menu-text">Participants</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-participants" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">Participants</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-participants">    
+        <li>
+    <a class="dropdown-item" href="./Pages/2023/participants.html" rel="" target="">
+ <span class="dropdown-text">2023 Participants</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./Pages/info.html" rel="" target="">
- <span class="menu-text">Program Info</span></a>
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-program-info" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">Program Info</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-program-info">    
+        <li>
+    <a class="dropdown-item" href="./Pages/2023/info.html" rel="" target="">
+ <span class="dropdown-text">2023 Program Information</span></a>
   </li>  
+    </ul>
+  </li>
   <li class="nav-item">
-    <a class="nav-link" href="./Pages/projects.html" rel="" target="">
- <span class="menu-text">Final Projects</span></a>
+    <a class="nav-link" href="https://google.com" rel="" target="">
+ <span class="menu-text">Apply Now!</span></a>
   </li>  
 </ul>
             <div class="quarto-navbar-tools ms-auto">
@@ -162,7 +176,14 @@ mark {
 <div id="animate2" style="opacity:0">
 <div id="container">
 <div class="subtitletext">
-<p><mark>Welcome to the official website for the Arts, Science and Technology in Global Leadership Summer 2023 Exchange Program between UC Santa Barbara and Keio University.</mark></p>
+<p><mark>Welcome to the official website for the Arts, Science and Technology in Global Leadership Exchange Program between UC Santa Barbara and Keio University.</mark></p>
+</div>
+</div>
+</div>
+<div id="animate3" style="opacity:0">
+<div id="container">
+<div class="subtitletext">
+<p><mark>We are currently in the process of finalizing the 2024 iteration of the program; please check back soon for updates! In the meantime, feel free to peruse material from the 2023 iteration, held during the Summer of 2023. </mark></p>
 </div>
 </div>
 </div>
@@ -197,6 +218,21 @@ function fadeIn_delay() {
   }
 }
 setTimeout(function() {fadeIn_delay(); }, 500)
+
+function fadeIn_delay2() {
+  var elem = document.getElementById("animate3");
+  var op = 0;
+  var id = setInterval(frame, 10);
+  function frame() {
+    if (op >= 1) {
+      clearInterval(id);
+    } else {
+      op = op + 0.01;
+      elem.style.opacity = op;
+    }
+  }
+}
+setTimeout(function() {fadeIn_delay2(); }, 1000)
 
 </script>
 
