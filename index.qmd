@@ -62,7 +62,7 @@ mark {
 <div id = "animate3" style="opacity:0">
 <div id="container">
 <div class="subtitletext">
-  <mark>We are currently in the process of finalizing the 2024 iteration of the program; please check back soon for updates! In the meantime, feel free to peruse material from the 2023 iteration, held during the Summer of 2023. </mark>
+  <mark>We are currently in the process of finalizing the 2024 iteration of the program; please check back soon for updates! In the meantime, feel free to peruse this website containing material from the Summer 2023 iteration of the program </mark>
 </div>
 </div>
 </div>
