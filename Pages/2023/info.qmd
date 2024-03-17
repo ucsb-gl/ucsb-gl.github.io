@@ -21,3 +21,17 @@ The program began with an introductory dinner on Monday, September 25, 2023 at t
 ## Program Goals and Topics
 
 The main theme for the 2023 iteration of the program was "Arts, Science, and Technology in Global Leadership." Students were placed into groups, and asked to research and present on a topic relating to the themes of Arts, Science, and Technology in Global Leadership. The five topics selected by groups in the 2023 iteration of the program were: Mental Health, Law for Outer Space, Robot Rights, Bullying, and Global Data & (Global) AI.
+
+<style>
+.myclass {
+  max-width: 100%;
+  width: 700px;
+  height: 600px;
+  border: 10px solid rgba(250, 196, 120, 0.2);
+  margin: 0;
+}
+</style>
+
+## 2023 Results Report
+
+{{< pdf ../../Files/Results_Report.pdf class=myclass >}}

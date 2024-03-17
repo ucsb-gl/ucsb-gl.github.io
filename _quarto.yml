@@ -10,8 +10,6 @@ website:
         text: Home
       - sidebar:participants
       - sidebar:info
-      - href: https://google.com
-        text: Apply Now!
         
   sidebar:
       - id: participants
