@@ -4,12 +4,15 @@ project:
 
 website:
   title: "UCSB - Keio Exchange Program"
+  favicon: "Images/Logos_Icons/cherry.png"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - sidebar:participants
       - sidebar:info
+      - href: https://bit.ly/ucsb-gl-24
+        text: Apply Now!
         
   sidebar:
       - id: participants
@@ -26,6 +29,6 @@ website:
 
 format:
   html:
-    theme: lumen
+    theme: [lumen, custom.scss]
     css: styles.css
     toc: true
