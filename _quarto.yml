@@ -25,6 +25,7 @@ website:
         title: "Program Info"
         style: "docked"
         contents:
+          - Pages/info.qmd
           - Pages/2023/info.qmd
 
 format:
