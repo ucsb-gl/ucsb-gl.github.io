@@ -3,9 +3,11 @@ title: "2024 Program Information"
 sidebar: false
 ---
 
+![](../Images/Logos_Icons/logo24.png){width="60%"}
+
 **Important 2024 Dates:**
 
--   **Application Deadline:** Saturday, June 30, 2024 by 11:59pm PDT
+-   **Application Deadline:** Thursday, July 11, 2024 by 11:59pm PDT
 
 -   **Mandatory Pre-program Introductory meeting:** Thursday September 05, 2024 7pm PDT via zoom (link to be provided to selected participants)
 
