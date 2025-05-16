@@ -11,7 +11,7 @@ website:
         text: Home
       - sidebar:participants
       - sidebar:info
-      - href: https://bit.ly/ucsb-gl-24
+      - href: https://bit.ly/ucsb-gl-25
         text: Apply Now!
         
   sidebar:
